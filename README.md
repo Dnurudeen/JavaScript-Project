@@ -1,4 +1,4 @@
-# Vanilla JS Projects
+# Denn's JS Projects
 
 #### Enroll In The Course
 
