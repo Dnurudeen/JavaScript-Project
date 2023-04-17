@@ -1,4 +1,4 @@
-# Denn's JS Projects
+# Deen's JS Projects
 
 #### Enroll In The Course
 
